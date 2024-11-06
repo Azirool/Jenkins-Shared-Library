@@ -1,0 +1,6 @@
+# IDE-specific files
+.idea/
+*.iml
+
+# Dependency libraries
+lib/
